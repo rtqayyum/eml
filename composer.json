@@ -12,7 +12,7 @@
         "braintree/braintree_php": "^3.22",
         "chumper/zipper": "1.0.*",
         "doctrine/dbal": "~2.4",
-        "guzzlehttp/guzzle": "6.3",
+        "guzzlehttp/guzzle": "6.5.6",
         "guzzlehttp/psr7": "^1.3",
         "intervention/image": "^2.3",
         "laravel/framework": "5.4.*",
